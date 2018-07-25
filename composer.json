@@ -9,5 +9,10 @@
     ],
     "require": {
         "illuminate/validation": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Together\\": "Src"
+        }
     }
 }
