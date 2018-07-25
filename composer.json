@@ -1,0 +1,13 @@
+{
+    "name": "together/validator",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "zhurongpeng",
+            "email": "738592537@qq.com"
+        }
+    ],
+    "require": {
+        "illuminate/validation": "^5.6"
+    }
+}
